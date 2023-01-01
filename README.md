@@ -13,4 +13,6 @@ https://www.linkedin.com/posts/mausumi-meher-242a73222_task4-december2022-gripde
 # Dashboard using PowerBI:
 ![Global Terrorism dashboard](https://user-images.githubusercontent.com/98810351/209789697-14c3d173-96e0-4292-9ae2-9c6d2674c3d7.jpg)
 
+# Key Insignts And Recommendation :
+-
 
